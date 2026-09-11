@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Vendor Inventory",
+  "Type": "App",
+  "Id": "8gK1VTyFNk2kpTo4HrzWDw",
+  "Reference": "vH-mok6AvkG7ETNodVTIZA/8gK1VTyFNk2kpTo4HrzWDw",
+  "Created": "2026-08-18T03:45:13.6276264Z",
+  "Updated": "2026-08-18T03:45:13.6276264Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

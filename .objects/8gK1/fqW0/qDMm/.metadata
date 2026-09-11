@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1 - Vendor Inventory",
+  "Type": "Screen",
+  "Id": "qDMm9gJsAkOa2E8cv1dO8g",
+  "Reference": "vH-mok6AvkG7ETNodVTIZA/qDMm9gJsAkOa2E8cv1dO8g",
+  "ParentRef": "vH-mok6AvkG7ETNodVTIZA/fqW0OfnL5EuOwCsHkMMeHQ",
+  "Created": "2026-08-18T03:45:13.8532889Z",
+  "Updated": "2026-08-18T03:45:13.8532889Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
